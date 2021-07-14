@@ -234,7 +234,7 @@ section.top-banner{
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    transition: all .3s ease-in;
+    transition: all .3s ease-in;  
 }
 .gallery-item:hover .gallery-popup{
     visibility: visible;
